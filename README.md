@@ -1,0 +1,1 @@
+Dashboard sobre apartamentos de Airbnb en Madrid con datos del 2009 a 2017, incluyendo diferentes medidas, KPIs y tablas para visualizar los datos de forma más fácil y entender patrones dentro del mismo.
